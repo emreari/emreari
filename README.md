@@ -1,6 +1,6 @@
 ### Hi there, I'm Emre 👋
 
-I'm Building AI Models, Developing Software and Making Robots | PhD in Brain Computer Interfaces
+Building AI Models, Developing Software and Making Robots | PhD in Brain Computer Interfaces
 
 <!--
 **emreari/emreari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
